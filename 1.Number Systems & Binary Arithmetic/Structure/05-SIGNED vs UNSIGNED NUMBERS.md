@@ -433,4 +433,6 @@ Signed
 ```text
 0 → fill 0
 1 → fill 1
+The Rule:If the number starts with 1, fill the left side with 1s.
+If the number starts with 0, fill the left side with 0s.
 ```
